@@ -5,4 +5,4 @@
 * Version: `1.0.0`
 * ---------------
 * Language: `French`
-* Database: `MySQL`
+* Database: `None`
